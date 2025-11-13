@@ -16,6 +16,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
+- [INTERACTIVE-RATING-COMPONENT](#interactive-rating-component)
 
 ## Overview
 
@@ -38,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View the source code here.](https://github.com/jidoG8/INTERACTIVE-RATING-COMPONENT.git)
+- Live Site URL: [View live the project in Action](https://jidog8.github.io/INTERACTIVE-RATING-COMPONENT/)
 
 ## My process
 
@@ -187,4 +188,5 @@ submitFeedback.addEventListener("click", () => {
 - Frontend Mentor - [@jidoG8](https://www.frontendmentor.io/profile/jidoG8)
 - Twitter - [@OjjaC1253](https://x.com/OjjaC1253)
 - LinkedIn - [@ojja-caesar](https://www.linkedin.com/in/ojja-caesar-134980345/)
+
 # INTERACTIVE-RATING-COMPONENT
